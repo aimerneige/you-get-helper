@@ -6,14 +6,15 @@ This tool can help you download all video of an [bilibili][bilibili] UP.
 
 ## Require
 
-- python
-- you-get
+- [python]
+- [requests]
+- [you-get]
 
 ## Install
 
-You must have `python` and `you-get` installed.
+Install all requirements.
 
-After you installed `python` and `you-get`, what you need to do is just run the `main.py` with python.
+With requirements installed, what you need to do is just run the `main.py` with python.
 
 ## Example
 
@@ -33,5 +34,6 @@ python3 main.py 13081489
 
 [bilibili]: https://www.bilibili.com/
 [Python]: https://www.python.org/
+[requests]: https://pypi.org/project/requests/
 [you-get]: https://pypi.org/project/you-get/
 [TheCW]: https://space.bilibili.com/13081489
