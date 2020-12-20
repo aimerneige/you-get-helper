@@ -30,7 +30,7 @@ Or you can simply run this:
 python3 main.py 13081489
 ```
 
----
+Enjoy it!
 
 [bilibili]: https://www.bilibili.com/
 [Python]: https://www.python.org/
