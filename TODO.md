@@ -1,0 +1,2 @@
+- [ ] rebuild with `Typer`
+- [ ] Playlist Check
