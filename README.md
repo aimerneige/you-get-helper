@@ -32,6 +32,15 @@ python3 main.py 13081489
 
 Enjoy it!
 
+---
+
+## TODO
+
+- [ ] rebuild with `Typer`
+- [ ] Playlist Check
+
+---
+
 [bilibili]: https://www.bilibili.com/
 [python]: https://www.python.org/
 [requests]: https://pypi.org/project/requests/
