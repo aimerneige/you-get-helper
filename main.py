@@ -47,7 +47,7 @@ def download_video(url:'str'):
     :param url: Video url of bilibili
     :return: None
     """
-    print("Start Download %s", (url))
+    print("Start Download %s" % (url))
     subprocess.call("you-get %s" % (url), shell=True)
     # print("Download %s" % (url))
 
