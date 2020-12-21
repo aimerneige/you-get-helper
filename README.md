@@ -38,6 +38,7 @@ Enjoy it!
 
 - [ ] rebuild with `Typer`
 - [ ] Playlist Check
+- [ ] Continute download
 
 ---
 
