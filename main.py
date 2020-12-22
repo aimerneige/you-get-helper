@@ -49,7 +49,6 @@ def download_video(url:'str'):
     """
     print("Start Download %s" % (url))
     subprocess.call("you-get %s" % (url), shell=True)
-    # print("Download %s" % (url))
 
 
 def print_help():
